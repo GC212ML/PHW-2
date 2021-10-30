@@ -1,5 +1,7 @@
 # Programming Homework #2
  - Auto ML for classification
+ - This is team project
+    - Made by 김도균, 김범석, 김서영
 
 ## findBestClusterOptions
 - Goal: This function will try combinations of the various models automatically.
