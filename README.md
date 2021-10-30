@@ -1,5 +1,5 @@
 # Programming Homework #2
- - Auto ML for classification
+ - Auto ML for clustering
  - This is team project
     - Made by 김도균, 김범석, 김서영
 
